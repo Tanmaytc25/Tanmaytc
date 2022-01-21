@@ -1,7 +1,6 @@
  ## 'VIRTUAL VISITS': HEALTHCARE BY ONE CLICK- ILLUSION OR A DESTINED REALITY?
 
-
-# (IMAGE 1 TO BE INSERTED)- TELEMDECINE 
+![Alt text](./telemedicine.png?raw=true "Title")
 
 ## INTRODUCTION :
 When the world came to an unanticipated halt during the initial days of the coronavirus pandemic (COVID-19) at least you or someone you knew shared a laugh on imagining how it would be to meet your dentist via a video call. It was certainly hilarious and whimsical at first but as the time progressed and more and more things went downhill and global lockdowns were imposed, online healthcare visits be it your therapist or a general practitioner everyone started offering the care virtually. Zoom, Google Meet or any other virtual alternatives became synonymous to in person doctor visits.
