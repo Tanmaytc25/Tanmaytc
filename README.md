@@ -72,6 +72,8 @@ The global networking of doctors and physicians is what this company proud itsel
 
 >It not only functions for patients but also benefits ‘providers’ with providing a platform for many self- employed doctors and also simultaneously connecting to over 70 thousand clinics and hospitals across 20+ countries. Remote consultations like these attracts both the Doctors (Healthcare givers) and Patients to join with the practo-community.
 
+
+
 ![Alt text](./images/bar-graph.png?raw=true "Bar Graph")
 
 
