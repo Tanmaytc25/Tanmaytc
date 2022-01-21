@@ -61,7 +61,7 @@ all added more than 100 million USD in their revenue funds.
 > 
 >  
 
--- Many of the top telehealth providers in India and South East-Asia are now emerging as one of the largest providers of telehealth and e-health services from developing nations
+ Many of the top telehealth providers in India and South East-Asia are now emerging as one of the largest providers of telehealth and e-health services from developing nations
 Some of them includes like:
 1. ‘iCliniq’ ( Tamil Nadu, India)- Founded in 2010  is an innovative telehealth community operating and advertising itself as a “medical second opinion” platform for patients seeking alternate solutions to their medical issues in a more global and convenient manner.
 The global networking of doctors and physicians is what this company proud itself of having doctors from India, Singapore, UAE, UK, USA, Germany etc.
@@ -71,6 +71,7 @@ The global networking of doctors and physicians is what this company proud itsel
 -- Taking a step further practo also provides various general surgeries to its patients like gall stone removal surgery, appendicitis and many more by connecting patients to expert surgeons across the country and the world as well. They also provide Personal Care Assistants, financial aid and Postoperative care to its patients under its motto of affordable healthcare. (https://www.practo.com)
 
 >It not only functions for patients but also benefits ‘providers’ with providing a platform for many self- employed doctors and also simultaneously connecting to over 70 thousand clinics and hospitals across 20+ countries. Remote consultations like these attracts both the Doctors (Healthcare givers) and Patients to join with the practo-community.
+
 
 
 
@@ -86,9 +87,9 @@ The global networking of doctors and physicians is what this company proud itsel
 3. Demand of books linked to telemedicine and telehealth can also be observed as more interest is growing among the general and the scientific community to learn more in these domains. Books like ‘Research Anthology on Telemedicine Efficacy, Adoption, and Impact on Healthcare Delivery’ and many other are selling as high as 400 to 500 USD. (https://www.igi-global.com/book/research-anthology-telemedicine-efficacy-adoption/267378)
 
 ## CONCLUSION:
--- Venturing to the question that was proposed at the beginning one can distinctly discern that virtual visits to healthcare providers are becoming an essential and integral part of the modern world. Many big and significant companies are investing into this sector of healthcare and shaping it and making it more affordable and sophisticated.
--- Distance multidisciplinary collaboration and remote mentoring can alleviate the shortage of doctors, especially experts. Avoiding doctors’ unnecessary trips to and from contaminated areas can reduce unnecessary waste of substances and essential resources and time and cost and is a viable alternative to alleviating medical shortages.
--- Digital health comes with its fair share of concerns and issues but more research and studies within this branch of medicine will yield more innovation and therefore more regard will be given to it by governments, consumers and providers across the world.
+ Venturing to the question that was proposed at the beginning one can distinctly discern that virtual visits to healthcare providers are becoming an essential and integral part of the modern world. Many big and significant companies are investing into this sector of healthcare and shaping it and making it more affordable and sophisticated.
+ Distance multidisciplinary collaboration and remote mentoring can alleviate the shortage of doctors, especially experts. Avoiding doctors’ unnecessary trips to and from contaminated areas can reduce unnecessary waste of substances and essential resources and time and cost and is a viable alternative to alleviating medical shortages.
+ Digital health comes with its fair share of concerns and issues but more research and studies within this branch of medicine will yield more innovation and therefore more regard will be given to it by governments, consumers and providers across the world.
 
 Therefore, implying that ‘Virtual Visits’ will not just be part of the generations in coming future but will become an innate part of mankind in coming decades. It will be intertwined in day to day lifestyle of many. 
 
