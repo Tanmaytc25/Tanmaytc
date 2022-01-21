@@ -22,9 +22,11 @@ Once again reading into the data during the COVID-19 pandemic we can observe tha
 For example assessing respiratory symptoms or loss of smell/taste which were early indicators in many COVID patients were easily assisted via the telemedicine infrastructure so available. This means of triage maintained patient oriented care while protecting  patients and healthcare providers.
 
 Apart from the coronavirus pandemic the use of telemedicine is documented highly amongst other medical specialties and it has grown significantly since the year 1990. Some of the medical specialties includes like psychiatrists, endocrinologists and rheumatologists are reported to have benefited the highest.
-# ( image 2 graph from microsoft word)
+
+![Alt text](./images/graph.png?raw=true "Graph")
 
 A Curriculum Shift- Preparing Future Doctors for Telemedicine:
+
 The COVID-19 pandemic led to changes in both the clinical environment and medical education. So to  maintain students’ ability to participate in clinical encounters and continue learning in the new virtual environment, a telemedicine curriculum for clinical students was rapidly developed at Harvard Medical School (HMS) focusing on the knowledge and skills needed to conduct live video encounters. Curriculum leads created an interactive, flexible curriculum to teach students clinical skills, regulatory issues, professionalism, and innovations in telemedicine. 
 
 Key lessons include: 
@@ -69,7 +71,8 @@ The global networking of doctors and physicians is what this company proud itsel
 -- Taking a step further practo also provides various general surgeries to its patients like gall stone removal surgery, appendicitis and many more by connecting patients to expert surgeons across the country and the world as well. They also provide Personal Care Assistants, financial aid and Postoperative care to its patients under its motto of affordable healthcare. (https://www.practo.com)
 
 >It not only functions for patients but also benefits ‘providers’ with providing a platform for many self- employed doctors and also simultaneously connecting to over 70 thousand clinics and hospitals across 20+ countries. Remote consultations like these attracts both the Doctors (Healthcare givers) and Patients to join with the practo-community.
-# Image 3 from microsoft document
+
+![Alt text](./images/bar-graph.png?raw=true "Bar Graph")
 
 
 
