@@ -26,12 +26,12 @@ Apart from the coronavirus pandemic, the use of telemedicine is documented highl
 
 A Curriculum Shift- Preparing Future Doctors for Telemedicine:
 
-The COVID-19 pandemic brought unprecedented changes in the clinical environment and medical education. So to maintain students 'ability to participate in clinical encounters and continue learning in the new virtual environment, a telemedicine curriculum for clinical students was rapidly developed at Harvard Medical School (HMS) focusing, on the knowledge and skills needed to conduct live video encounters. Curriculum leads created an interactive, flexible curriculum to teach students clinical skills, regulatory issues, professionalism, and innovations in telemedicine. 
+The COVID-19 pandemic brought unprecedented changes in the clinical environment and medical education. So to maintain students ability to participate in clinical encounters and continue learning in the new virtual environment, a telemedicine curriculum for clinical students was rapidly developed at Harvard Medical School (HMS) focusing, on the knowledge and skills needed to conduct live video encounters. Curriculum leads created an interactive, flexible curriculum to teach students clinical skills, regulatory issues, professionalism, and innovations in telemedicine. 
 
 Key lessons include: 
 - the ability to cover a wide breadth of skills-based material with practical video recordings
 - the flexibility of an online asynchronous modality conducive for students with competing academic demands
-- Providing a sequenced and logical approach to telemedicine added to students’ self-reported learning, allowing immediate application of new concepts to an authentic clinical learning environment.
+- Providing a sequenced and logical approach to telemedicine added to students 'self-reported' learning, allowing immediate application of new concepts to an authentic clinical learning environment.
 
 The next steps for this curriculum include potential improvements for future iterations of the course and anticipated applications for future students and faculty. For instance, students could conduct the virtual visit with faculty supervision and feedback and solicit reflections from others involved in the encounter, including patients, caregivers, or other members of the care team. 
 In addition, the creation of virtual telemedicine objective structured clinical examinations (OSCEs) may serve as a formal assessment tool to objectively evaluate curricular effectiveness and as a means to ensure students are evaluated systematically in developing telemedicine competencies.
@@ -44,7 +44,7 @@ With this exponential growth in the technology sector and restrictions the pande
 Some of the top telehealth providers across the world include:
 1. ’Teladoc Health’ (NYC, United States)- The company is well renowned to provide a range of services from AI-based analytics to medical consultations with revenue forecast in 2020 reaching approximately 180 million USD. 
 
-2. ’Doctolib’ (Paris, France)-It became part of the top three most used telemedicine services in the world amid the COVID-19 pandemic with over 100,000 virtual consultations taking place every day according to the company. (https://www.doctolib.fr)
+2. ’Doctolib’ (Paris, France)- It became part of the top three most used telemedicine services in the world amid the COVID-19 pandemic with over 100,000 virtual consultations taking place every day according to the company. (https://www.doctolib.fr)
 
 3. ‘American well’ (Boston, USA)- Established in 2006 has a business model in the nature of a subscription service that it sells to healthcare providers, who then can register their network of professionals on the platform. ( rebranded Amwell in 2019) (https://business.amwell.com)
 
@@ -59,14 +59,14 @@ all added more than 100 million USD in their revenue funds.
 > 
 >  
 
- Many of the top telehealth providers in India and South East-Asia are now emerging as one of the largest providers of telehealth and e-health services from developing nations
-Some of them include like:
+ Many of the top telehealth providers in India and South East-Asia are now emerging as one of the largest providers of telehealth and e-health services from developing nations:
+ 
 1. ‘iCliniq’ ( Tamil Nadu, India)- Founded in 2010  is an innovative telehealth community operating and advertising itself as a “medical second opinion” platform for patients seeking alternative solutions to their medical issues in a more global and convenient manner.
-The global networking of doctors and physicians is what makes this company proud, having doctors from India, Singapore, UAE, UK, USA, Germany, etc.
+The global networking of doctors and physicians (having doctors from India, Singapore, UAE, UK, USA, Germany, etc).
  It covers a vast array of specialties such as Ayurveda (an alternative medical system with historical roots in the Indian subcontinent), Cardiology, Urology, Psychiatry, dentistry, and many more. (https://www.icliniq.com)
 
 2. ‘PRACTO’- With a mission to provide affordable healthcare and with offerings ranging from a comprehensive medical directory, convenient online appointment booking, online consultations, its own E-pharmacy that is the vast array of connections with multiple pharmacies across the country making it one of the fastest-growing telehealth providers within the country.
--- Taking a step further practo also provides various general surgeries to its patients like gall stone removal surgery, appendicitis, and many more by connecting patients to expert surgeons across the country and the world as well. They also provide Personal Care Assistants, financial aid, and Postoperative care to their patients under its motto of affordable healthcare. (https://www.practo.com)
+- Taking a step further practo also provides various general surgeries to its patients like gall stone removal surgery, appendicitis, and many more options. This is simply achieved by connecting patients to expert surgeons across the country and the world. They also provide Personal Care Assistants, financial aid, and Postoperative care to their patients under its motto of affordable healthcare. (https://www.practo.com)
 
 >It not only functions for patients but also benefits ‘providers’ by providing a platform for many self-employed doctors and also simultaneously connecting to over 70 thousand clinics and hospitals across 20+ countries. Remote consultations like these attract both the Doctors (Healthcare givers) and Patients to join with the practo-community.
 
@@ -79,17 +79,18 @@ The global networking of doctors and physicians is what makes this company proud
 
 
  ## TRENDS EMERGING IN LAST TWO YEARS:
- 1. Observing the last two years google trends with specific words like virtual doctor visits or telehealth/telemedicine one can see that there was an exponential surge and interest in these topics and particularly in the initial months of the pandemic between April 2020 and May 2020. 
+ 1. Observing the last two years Google trends with specific words like 'virtual doctor visits' or 'telehealth/telemedicine' one can discern, that there was an exponential surge and interest in these topics and particularly in the initial months of the pandemic between April 2020 and May 2020. 
 
 2. Since then there has been a decline but persistent interest in telehealth and the way it can revolutionize the medical field. Increased studies, debates revolving around the pros and cons of digital health and benefits are also on the rise.
 3. Demand for books linked to telemedicine and telehealth can also be observed as more interest is growing among the general and the scientific community to learn more in these domains. Books like ‘Research Anthology on Telemedicine Efficacy, Adoption, and Impact on Healthcare Delivery’ and many others are selling as high as 400 to 500 USD. (https://www.igi-global.com/book/research-anthology-telemedicine-efficacy-adoption/267378)
 
 ## IN A NUTSHELL:
  Venturing to the question that was proposed at the very beginning of this blog post, one can distinctly discern that 'virtual visits' to healthcare providers are becoming an essential and integral part of the modern world. Many big and significant companies are investing in this sector of healthcare and shaping it and making it more affordable and sophisticated.
- Distance multidisciplinary collaboration and remote mentoring can alleviate the shortage of doctors, especially experts. Avoiding unnecessary trips of many healthcare providers, therefore, reduces unnecessary waste production and essential resources, time, and cost which makes telemedicine a viable alternative to alleviating medical shortages.
- Digital health comes with its fair share of concerns and issues but more research and studies within this branch of medicine will yield more innovation and therefore more regard will be given to it by governments, consumers, and providers across the world.
+ Distance multidisciplinary collaboration and remote mentoring can alleviate the shortages of doctors, especially experts and specialists. Avoiding unnecessary trips by many healthcare providers can, therefore, reduce unnecessary waste production and essential resources, time, and cost which makes telemedicine a viable alternative by alleviating medical shortages.
 
-Therefore, implying that ‘Virtual Visits’ will not just be part of the generations in the coming future but will become an innate part of mankind in coming decades. It will most likely be intertwined in day to day life of many. 
+ Digital health comes with its fair share of concerns and issues but more research and studies within this branch of medicine will yield more innovation more regard will be given for an expansion of this sector by governments, consumers, and providers across the world.
+
+Therefore, ‘Virtual Visits’ will not just be part of the generations in the coming future but will become an innate part of mankind in the coming decades. It will most likely be intertwined in day to day life of many. 
 
 
 
