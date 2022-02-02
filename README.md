@@ -7,9 +7,8 @@ When the world came to an unanticipated halt during the initial days of the coro
 
 Fundamentally a straightforward concept: ‘Using technological methods and processes linked to it so as to facilitate patient-care and therefore the overall well-being of the community.
 
-## TIME TRAVEL TO WHEN IT ALL BEGAN...
-Travelling and taking a trip to late 19 centaury we see the first reports of telemedicine used. In 1879 a year where world was just getting introduced to the electric bulbs, a telepho
-ne call reported in The Lancet between a physician and a mother to determine whether the baby had croup (a virulent infection of the upper airway which obstructs breathing) was made. The physician listened to the baby’s cough through the phone at the time as reported. This menial but gigantic technological reform picked up pace through the coming decades and many scientists, doctor and other healthcare providers and experts kept on revolutionizing the field of telehealth and digital medicine. 
+## 
+Travelling and taking a trip to late 19 centaury we see the first reports of telemedicine used. In 1879 a year where world was just getting introduced to the electric bulbs, a telephone call reported in The Lancet between a physician and a mother to determine whether the baby had croup (a virulent infection of the upper airway which obstructs breathing) was made. The physician listened to the baby’s cough through the phone at the time as reported. This menial but gigantic technological reform picked up pace through the coming decades and many scientists, doctor and other healthcare providers and experts kept on revolutionizing the field of telehealth and digital medicine. 
 
 With the advent of artificial intelligence in the late 80s and 90s also described by many as the golden times for Digi-Health. The exponential growth within the community of healthcare providers due to the advancement in AI saw numerous digital communication organizations to be set all across the globe like:
 - American Telemedicine Association, 
