@@ -7,10 +7,10 @@ When the world came to an unanticipated halt during the initial days of the coro
 
 Fundamentally a straightforward concept: ‘Using technological methods and processes linked to it so as to facilitate patient-care and therefore the overall well-being of the community.
 
-## ROOS AND ORGINS OF TELEMEDICINE:
+## ROOTS AND ORIGINS OF TELEMEDICINE:
 Traveling and taking a trip to the late 19-century one can read through the first reports of telemedicine being used. In 1879 a year when the world was just getting introduced to the electric bulbs, a telephone call was reported in The Lancet between a physician and a mother to determine whether the baby had croup (a virulent infection of the upper airway which obstructs breathing) was made. The physician listened to the baby’s cough through the phone at the time as reported. This menial but gigantic technological reform picked up pace through the coming decades and many scientists, doctors, and other healthcare providers and experts kept on revolutionizing the field of telehealth and digital medicine. 
 
- The advent of artificial intelligence in the late 80s and 90s was also described by many as the 'golden times' for Digital-Health. The exponential growth within the community of healthcare providers due to the advancement in AI saw numerous digital communication organizations be set all across the globe like:
+ The advent of artificial intelligence in the late 80s and 90s was also described by many as the 'golden times' for Digital-Health. The exponential growth within the community of healthcare providers due to the advancement in AI saw numerous digital communication organizations expanded all across the globe. For example:
 - American Telemedicine Association, 
 - EHTEL (European Health Telematics Association) and (https://www.ehtel.eu)
 - IMIA (International Medical Informatics Association) 
@@ -20,17 +20,16 @@ Once again reading into the data during the COVID-19 pandemic one can observe, h
 
 For example, assessing respiratory symptoms or loss of smell/taste which were early indicators in many COVID patients were easily assisted via the telemedicine infrastructure so available. This means of triage maintained patient-oriented care while protecting patients and healthcare providers.
 
-Apart from the coronavirus pandemic, the use of telemedicine is documented highly amongst other medical specialties and it has grown significantly since the year 1990. Some of the medical specialties include- psychiatrists, endocrinologists, and rheumatologists who are reported to have benefited the highest.
+Apart from the coronavirus pandemic, the use of telemedicine is documented highly amongst other medical specialties and it has grown significantly since 1990. Some of the medical specialties include- psychiatrists, endocrinologists, and rheumatologists who are reported to have benefited the highest.
 
 ![Alt text](./images/graph.png?raw=true "Graph")
 
 A Curriculum Shift- Preparing Future Doctors for Telemedicine:
 
-The COVID-19 pandemic brought unprecedented changes in the clinical environment and medical education. So to maintain students’ ability to participate in clinical encounters and continue learning in the new virtual environment, a telemedicine curriculum for clinical students was rapidly developed at Harvard Medical School (HMS) focusing, on the knowledge and skills needed to conduct live video encounters. Curriculum leads created an interactive, flexible curriculum to teach students clinical skills, regulatory issues, professionalism, and innovations in telemedicine. 
+The COVID-19 pandemic brought unprecedented changes in the clinical environment and medical education. So to maintain students 'ability to participate in clinical encounters and continue learning in the new virtual environment, a telemedicine curriculum for clinical students was rapidly developed at Harvard Medical School (HMS) focusing, on the knowledge and skills needed to conduct live video encounters. Curriculum leads created an interactive, flexible curriculum to teach students clinical skills, regulatory issues, professionalism, and innovations in telemedicine. 
 
 Key lessons include: 
-- the ability to cover a wide breadth of skills-based material with practical video
-- recordings
+- the ability to cover a wide breadth of skills-based material with practical video recordings
 - the flexibility of an online asynchronous modality conducive for students with competing academic demands
 - Providing a sequenced and logical approach to telemedicine added to students’ self-reported learning, allowing immediate application of new concepts to an authentic clinical learning environment.
 
