@@ -2,12 +2,12 @@
 
 ![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
 
-## VIRTUAL VISITS? :
-When the world came to an unanticipated halt during the initial days of the coronavirus pandemic (COVID-19) at least you or someone you knew shared a laugh on imagining how it would be to meet your dentist via a video call. It was certainly hilarious and whimsical at first but as the time progressed and more and more things went downhill and global lockdowns were imposed, online healthcare visits be it your therapist or a general practitioner everyone started offering the care virtually. Zoom, Google Meet or any other virtual alternatives became synonymous to in person doctor visits.
+## VIRTUAL VISITS?
+When the world came to an unanticipated halt during the initial days of the coronavirus pandemic (COVID-19) at least you or someone you knew shared a laugh on imagining how it would be to meet your dentist via a video call. It was certainly hilarious and whimsical at first but as the time progressed and more and more things went downhill and global lockdowns were imposed, online healthcare visits be it your therapist or a general practitioner everyone started offering the care virtually. Zoom, Google Meet, or any other virtual alternatives became synonymous with in-person doctor visits.
 
-Fundamentally a straightforward concept: 'Using technological methods and processes linked to it so as to facilitate patient-care and therefore the overall well-being of the general public'. 
+Fundamentally a straightforward concept: ‘Using technological methods and processes linked to it so as to facilitate patient-care and therefore the overall well-being of the community.
 
-## HISTORY:
+## TIME TRAVEL TO WHEN IT ALL BEGAN...
 Travelling and taking a trip to late 19 centaury we see the first reports of telemedicine used. In 1879 a year where world was just getting introduced to the electric bulbs, a telepho
 ne call reported in The Lancet between a physician and a mother to determine whether the baby had croup (a virulent infection of the upper airway which obstructs breathing) was made. The physician listened to the baby’s cough through the phone at the time as reported. This menial but gigantic technological reform picked up pace through the coming decades and many scientists, doctor and other healthcare providers and experts kept on revolutionizing the field of telehealth and digital medicine. 
 
