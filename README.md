@@ -84,6 +84,11 @@ The global networking of doctors and physicians (having doctors from India, Sing
 2. Since then there has been a decline but persistent curiosity in telehealth and the way it can revolutionize the medical field. Increased studies, debates revolving around the pros and cons of digital health and benefits are also on the rise.
 3. Demand for books linked to telemedicine and telehealth can also be observed as more interest is growing among the general and the scientific community to learn more in these domains. Books like ‘Research Anthology on Telemedicine Efficacy, Adoption, and Impact on Healthcare Delivery’ and many others are selling as high as 400 to 500 USD. (https://www.igi-global.com/book/research-anthology-telemedicine-efficacy-adoption/267378)
 
+## WHO EXACTLY BENEFITS?:
+-  By expanding the scope of local healthcare facilities many local communities can avail certain emergency services which can facilitate further with primary and even secondary prophylaxis. This also increases community awareness and perception towards modern medicine especially in rural and underdeveloped regions as Word-of-mouth is an important factor contributing to rural and local healthcare. Diffusion of anecdotes and stories throughout the community also increases the reputation of the facility which can lead to more funding and thus, more sophisticated telemedicine tools can be employed to provide the best care.
+-  Telemedicine at its current stage still requires monumental upgrading and augmentation but it can still aid countless self-employed doctors, nurses, and other healthcare providers to find a reliable way to provide the best care to patients all across the globe. By using the tools of telehealth and telemedicine so available they can provide the required care and work for multiple employers which can open multiple sources of income, therefore, providing financial stability to many and also can reduce the high amount of stress relating to job security. Freelancing within the healthcare industry has grown significantly during the Covid-19 pandemic as more and more service providers were overwhelmed with the amount of stress and work with little to no benefits provided by the healthcare facilities.
+
+
 ## IN A NUTSHELL:
  Venturing to the question that was proposed at the very beginning of this blog post, one can distinctly discern that 'virtual visits' to healthcare providers are becoming an essential and integral part of the modern world. Many big and significant companies are investing in this sector of healthcare and shaping it and making it more affordable and sophisticated.
  
@@ -98,17 +103,22 @@ The global networking of doctors and physicians (having doctors from India, Sing
 
 
 ## References/Sources:
-1. Nesbitt T.S., & Katz-Bell J (). History of telehealth. Rheuban K, & Krupinski E.A.(Eds.),  Understanding Telehealth. McGraw Hill. https://accessmedicine.mhmedical.com/content.aspx?bookid=2217&sectionid=187794434
-2. Potter, A. J., Natafgi, N., Ullrich, F., & MacKinney, A. C. (2016). Perceptions of the benefits of telemedicine in rural communities. Perspectives in Health Information Management, 1.
+1. (Retrieved - 2,January 2022) Nesbitt T.S., & Katz-Bell J (). History of telehealth. Rheuban K, & Krupinski E.A.(Eds.),  Understanding Telehealth. McGraw Hill. https://accessmedicine.mhmedical.com/content.aspx?bookid=2217&sectionid=187794434
+
+2. (Retrieved - 5,January 2022) Potter, A. J., Natafgi, N., Ullrich, F., & MacKinney, A. C. (2016). Perceptions of the benefits of telemedicine in rural communities. Perspectives in Health Information Management, 1.
 http://ueu1045.weblog.esaunggul.ac.id/wp-content/uploads/sites/5935/2017/11/1-PerceptionsofTelemedicine2.pdf
 
-3. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603440/ Frankl, S. E., Joshi, A., Onorato, S., Jawahir, G. L., Pelletier, S. R., Dalrymple, J. L., & Schwartz, A. W. (2021). Preparing future doctors for telemedicine: An asynchronous curriculum for medical students implemented during the COVID-19 pandemic. Academic Medicine, 96(12), 1696.
+3. (Retrieved - 5,January 2022) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603440/ Frankl, S. E., Joshi, A., Onorato, S., Jawahir, G. L., Pelletier, S. R., Dalrymple, J. L., & Schwartz, A. W. (2021). Preparing future doctors for telemedicine: An asynchronous curriculum for medical students implemented during the COVID-19 pandemic. Academic Medicine, 96(12), 1696.
 
-4. Ateriya N, Saraf A, Meshram VP, Setia P. Telemedicine and virtual consultation: The Indian perspective. Natl Med J India 2018;31:215-218.  https://nmji.in/telemedicine-and-virtual-consultation-the-indian-perspective/
+4. (Retrieved - 8,January 2022) Ateriya N, Saraf A, Meshram VP, Setia P. Telemedicine and virtual consultation: The Indian perspective. Natl Med J India 2018;31:215-218.  https://nmji.in/telemedicine-and-virtual-consultation-the-indian-perspective/
 
-5. Haleem, A., Javaid, M., Singh, R. P., & Suman, R. (2021). Telemedicine for healthcare: Capabilities, features, barriers, and applications. Sensors International, 2, 100117. https://www.sciencedirect.com/science/article/pii/S2666351121000383
+5. (Retrieved - 14,January 2022) Haleem, A., Javaid, M., Singh, R. P., & Suman, R. (2021). Telemedicine for healthcare: Capabilities, features, barriers, and applications. Sensors International, 2, 100117. https://www.sciencedirect.com/science/article/pii/S2666351121000383
 
-6. (Retrieved - 10,January 2021) https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/telehealth-a-quarter-trillion-dollar-post-covid-19-reality (Including Graphs)
+6. (Retrieved - 16,January 2022) https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/telehealth-a-quarter-trillion-dollar-post-covid-19-reality (Including Graphs)
+
+7. (Retrieved - 5,February 2022) https://www.fortunebusinessinsights.com/blog/top-10-telemedicine-companies-2020-10077
+
+8. (Retrieved - 2,February 2022) https://www.theatlantic.com/health/archive/2021/11/the-mass-exodus-of-americas-health-care-workers/620713/
 
 
 
