@@ -117,9 +117,9 @@ http://ueu1045.weblog.esaunggul.ac.id/wp-content/uploads/sites/5935/2017/11/1-Pe
 
 6. (Retrieved - 16,January 2022) https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/telehealth-a-quarter-trillion-dollar-post-covid-19-reality (Including Graphs)
 
-7. (Retrieved - 5,February 2022) https://www.fortunebusinessinsights.com/blog/top-10-telemedicine-companies-2020-10077
+7. (Retrieved - 4,February 2022) https://www.fortunebusinessinsights.com/blog/top-10-telemedicine-companies-2020-10077
 
-8. (Retrieved - 2,February 2022) https://www.theatlantic.com/health/archive/2021/11/the-mass-exodus-of-americas-health-care-workers/620713/
+8. (Retrieved - 5,February 2022) https://www.theatlantic.com/health/archive/2021/11/the-mass-exodus-of-americas-health-care-workers/620713/
 
 
 
