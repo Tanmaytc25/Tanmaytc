@@ -84,8 +84,9 @@ The global networking of doctors and physicians (having doctors from India, Sing
 2. Since then there has been a decline but persistent curiosity in telehealth and the way it can revolutionize the medical field. Increased studies, debates revolving around the pros and cons of digital health and benefits are also on the rise.
 3. Demand for books linked to telemedicine and telehealth can also be observed as more interest is growing among the general and the scientific community to learn more in these domains. Books like ‘Research Anthology on Telemedicine Efficacy, Adoption, and Impact on Healthcare Delivery’ and many others are selling as high as 400 to 500 USD. (https://www.igi-global.com/book/research-anthology-telemedicine-efficacy-adoption/267378)
 
-## WHO EXACTLY BENEFITS?:
+## WHO EXACTLY BENEFITS?
 -  By expanding the scope of local healthcare facilities many local communities can avail certain emergency services which can facilitate further with primary and even secondary prophylaxis. This also increases community awareness and perception towards modern medicine especially in rural and underdeveloped regions as Word-of-mouth is an important factor contributing to rural and local healthcare. Diffusion of anecdotes and stories throughout the community also increases the reputation of the facility which can lead to more funding and thus, more sophisticated telemedicine tools can be employed to provide the best care.
+
 -  Telemedicine at its current stage still requires monumental upgrading and augmentation but it can still aid countless self-employed doctors, nurses, and other healthcare providers to find a reliable way to provide the best care to patients all across the globe. By using the tools of telehealth and telemedicine so available they can provide the required care and work for multiple employers which can open multiple sources of income, therefore, providing financial stability to many and also can reduce the high amount of stress relating to job security. Freelancing within the healthcare industry has grown significantly during the Covid-19 pandemic as more and more service providers were overwhelmed with the amount of stress and work with little to no benefits provided by the healthcare facilities.
 
 
@@ -108,7 +109,7 @@ The global networking of doctors and physicians (having doctors from India, Sing
 2. (Retrieved - 5,January 2022) Potter, A. J., Natafgi, N., Ullrich, F., & MacKinney, A. C. (2016). Perceptions of the benefits of telemedicine in rural communities. Perspectives in Health Information Management, 1.
 http://ueu1045.weblog.esaunggul.ac.id/wp-content/uploads/sites/5935/2017/11/1-PerceptionsofTelemedicine2.pdf
 
-3. (Retrieved - 5,January 2022) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603440/ Frankl, S. E., Joshi, A., Onorato, S., Jawahir, G. L., Pelletier, S. R., Dalrymple, J. L., & Schwartz, A. W. (2021). Preparing future doctors for telemedicine: An asynchronous curriculum for medical students implemented during the COVID-19 pandemic. Academic Medicine, 96(12), 1696.
+3. (Retrieved - 6,January 2022) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603440/ Frankl, S. E., Joshi, A., Onorato, S., Jawahir, G. L., Pelletier, S. R., Dalrymple, J. L., & Schwartz, A. W. (2021). Preparing future doctors for telemedicine: An asynchronous curriculum for medical students implemented during the COVID-19 pandemic. Academic Medicine, 96(12), 1696.
 
 4. (Retrieved - 8,January 2022) Ateriya N, Saraf A, Meshram VP, Setia P. Telemedicine and virtual consultation: The Indian perspective. Natl Med J India 2018;31:215-218.  https://nmji.in/telemedicine-and-virtual-consultation-the-indian-perspective/
 
