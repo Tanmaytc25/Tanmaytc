@@ -81,7 +81,7 @@ The global networking of doctors and physicians (having doctors from India, Sing
  ## TRENDS EMERGING IN LAST TWO YEARS:
  1. Observing the last two years Google trends with specific words like 'virtual doctor visits' or 'telehealth/telemedicine' one can discern, that there was an exponential surge and interest in these topics and particularly in the initial months of the pandemic between April 2020 and May 2020. (https://trends.google.com/trends/explore?date=2020-05-20%202022-02-05&q=%2Fm%2F04dqyb)
 
-2. Since then there has been a decline but persistent interest in telehealth and the way it can revolutionize the medical field. Increased studies, debates revolving around the pros and cons of digital health and benefits are also on the rise.
+2. Since then there has been a decline but persistent curiosity in telehealth and the way it can revolutionize the medical field. Increased studies, debates revolving around the pros and cons of digital health and benefits are also on the rise.
 3. Demand for books linked to telemedicine and telehealth can also be observed as more interest is growing among the general and the scientific community to learn more in these domains. Books like ‘Research Anthology on Telemedicine Efficacy, Adoption, and Impact on Healthcare Delivery’ and many others are selling as high as 400 to 500 USD. (https://www.igi-global.com/book/research-anthology-telemedicine-efficacy-adoption/267378)
 
 ## IN A NUTSHELL:
