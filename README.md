@@ -22,7 +22,7 @@ For example, assessing respiratory symptoms or loss of smell/taste which were ea
 
 Apart from the coronavirus pandemic, the use of telemedicine is documented highly amongst other medical specialties and it has grown significantly since 1990. Some of the medical specialties include- psychiatrists, endocrinologists, and rheumatologists who are reported to have benefited the highest.
 
-![Alt text](./images/graph.png?raw=true "Graph")
+Figure 2:  ![Alt text](./images/graph.png?raw=true "Graph")
 
 A Curriculum Shift- Preparing Future Doctors for Telemedicine:
 
@@ -73,7 +73,7 @@ The global networking of doctors and physicians (having doctors from India, Sing
 
 
 
-![Alt text](./images/bar-graph.png?raw=true "Bar Graph")
+Figure 3: ![Alt text](./images/bar-graph.png?raw=true "Bar Graph")
 
 
 
@@ -104,20 +104,20 @@ The global networking of doctors and physicians (having doctors from India, Sing
 
 
 ## References/Sources:
-1. (Retrieved - 2,January 2022) Nesbitt T.S., & Katz-Bell J (). History of telehealth. Rheuban K, & Krupinski E.A.(Eds.),  Understanding Telehealth. McGraw Hill. https://accessmedicine.mhmedical.com/content.aspx?bookid=2217&sectionid=187794434
+1. (Retrieved - 2,January 2022) Nesbitt T.S., & Katz-Bell J (). History of telehealth. Rheuban K, & Krupinski E.A.(Eds.),  Understanding Telehealth. McGraw Hill. https://accessmedicine.mhmedical.com/content.aspx?bookid=2217&sectionid=187794434 (Roots and origins of telemedicine)
 
 2. (Retrieved - 5,January 2022) Potter, A. J., Natafgi, N., Ullrich, F., & MacKinney, A. C. (2016). Perceptions of the benefits of telemedicine in rural communities. Perspectives in Health Information Management, 1.
-http://ueu1045.weblog.esaunggul.ac.id/wp-content/uploads/sites/5935/2017/11/1-PerceptionsofTelemedicine2.pdf
+http://ueu1045.weblog.esaunggul.ac.id/wp-content/uploads/sites/5935/2017/11/1-PerceptionsofTelemedicine2.pdf (Who exactly benefits?)
 
-3. (Retrieved - 6,January 2022) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603440/ Frankl, S. E., Joshi, A., Onorato, S., Jawahir, G. L., Pelletier, S. R., Dalrymple, J. L., & Schwartz, A. W. (2021). Preparing future doctors for telemedicine: An asynchronous curriculum for medical students implemented during the COVID-19 pandemic. Academic Medicine, 96(12), 1696.
+3. (Retrieved - 6,January 2022) https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8603440/ Frankl, S. E., Joshi, A., Onorato, S., Jawahir, G. L., Pelletier, S. R., Dalrymple, J. L., & Schwartz, A. W. (2021). Preparing future doctors for telemedicine: An asynchronous curriculum for medical students implemented during the COVID-19 pandemic. Academic Medicine, 96(12), 1696. 
 
 4. (Retrieved - 8,January 2022) Ateriya N, Saraf A, Meshram VP, Setia P. Telemedicine and virtual consultation: The Indian perspective. Natl Med J India 2018;31:215-218.  https://nmji.in/telemedicine-and-virtual-consultation-the-indian-perspective/
 
 5. (Retrieved - 14,January 2022) Haleem, A., Javaid, M., Singh, R. P., & Suman, R. (2021). Telemedicine for healthcare: Capabilities, features, barriers, and applications. Sensors International, 2, 100117. https://www.sciencedirect.com/science/article/pii/S2666351121000383
 
-6. (Retrieved - 16,January 2022) https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/telehealth-a-quarter-trillion-dollar-post-covid-19-reality (Including Graphs)
+6. (Retrieved - 16,January 2022) https://www.mckinsey.com/industries/healthcare-systems-and-services/our-insights/telehealth-a-quarter-trillion-dollar-post-covid-19-reality (Telemedicine in the modern world, Including Graphs)
 
-7. (Retrieved - 4,February 2022) https://www.fortunebusinessinsights.com/blog/top-10-telemedicine-companies-2020-10077
+7. (Retrieved - 4,February 2022) https://www.fortunebusinessinsights.com/blog/top-10-telemedicine-companies-2020-10077 (Start-ups and Investments)
 
 8. (Retrieved - 5,February 2022) https://www.theatlantic.com/health/archive/2021/11/the-mass-exodus-of-americas-health-care-workers/620713/
 
