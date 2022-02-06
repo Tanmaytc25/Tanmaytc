@@ -1,6 +1,6 @@
  ## 'VIRTUAL VISITS': HEALTHCARE BY ONE CLICK- ILLUSION OR A DISTANT REALITY?
 
-![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
+Figure 1 ![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
 
 ## VIRTUAL VISITS?
 When the world came to an unanticipated halt during the initial days of the coronavirus pandemic (COVID-19) at least you or someone you knew shared a laugh on imagining how it would be to meet your dentist via a video call. It was certainly hilarious and whimsical at first but as the time progressed and more and more things went downhill and global lockdowns were imposed, online healthcare visits be it your therapist or a general practitioner everyone started offering the care virtually. Zoom, Google Meet, or any other virtual alternatives became synonymous with in-person doctor visits.
@@ -87,7 +87,7 @@ The global networking of doctors and physicians (having doctors from India, Sing
 ## WHO EXACTLY BENEFITS?
 -  By expanding the scope of local healthcare facilities many local communities can avail certain emergency services which can facilitate further with primary and even secondary prophylaxis. This also increases community awareness and perception towards modern medicine especially in rural and underdeveloped regions as Word-of-mouth is an important factor contributing to rural and local healthcare. Diffusion of anecdotes and stories throughout the community also increases the reputation of the facility which can lead to more funding and thus, more sophisticated telemedicine tools can be employed to provide the best care.
 
--  Telemedicine at its current stage still requires monumental upgrading and augmentation but it can still aid countless self-employed doctors, nurses, and other healthcare providers to find a reliable way to provide the best care to patients all across the globe. By using the tools of telehealth and telemedicine so available they can provide the required care and work for multiple employers which can open multiple sources of income, therefore, providing financial stability to many and also can reduce the high amount of stress relating to job security. Freelancing within the healthcare industry has grown significantly during the Covid-19 pandemic as more and more service providers were overwhelmed with the amount of stress and work with little to no benefits provided by the healthcare facilities.
+-  Telemedicine at its current stage still requires monumental upgrading and augmentation but it can still aid countless self-employed doctors, nurses, and other healthcare providers to find a reliable way to provide the best care to patients all across the globe. By using the tools of telehealth and telemedicine so available they can provide the required care and work for multiple employers which can open multiple sources of income, therefore, providing financial stability to many and also can reduce the high amount of stress relating to job security. Freelancing within the healthcare industry has grown significantly during the Covid-19 pandemic as more and more service providers were overwhelmed with the amount of stress and work with little to no benefits provided by the healthcare facilities for them. 
 
 
 ## IN A NUTSHELL:
