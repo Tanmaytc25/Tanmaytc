@@ -1,6 +1,6 @@
  ## 'VIRTUAL VISITS': HEALTHCARE BY ONE CLICK- ILLUSION OR A DISTANT REALITY?
 
-Figure 1:  ![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
+Figure 1:   ![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
 
 ## VIRTUAL VISITS?
 When the world came to an unanticipated halt during the initial days of the coronavirus pandemic (COVID-19) at least you or someone you knew shared a laugh on imagining how it would be to meet your dentist via a video call. It was certainly hilarious and whimsical at first but as the time progressed and more and more things went downhill and global lockdowns were imposed, online healthcare visits be it your therapist or a general practitioner everyone started offering the care virtually. Zoom, Google Meet, or any other virtual alternatives became synonymous with in-person doctor visits.
@@ -38,8 +38,8 @@ In addition, the creation of virtual telemedicine objective structured clinical 
 
 # START-UPS AND INVESTMENTS ARE SURGING:
 
-With this exponential growth in the technology sector and restrictions the pandemic brought with it, there has been an increase in the start-ups linked to this sector of telemedicine. Quoting Apple CEO ‘Tim Cook’-“HEALTH WILL BE THE GREATEST CONTRIBUTION OF APPLE TO WHOLE MANKIND” one can distinctly observe, that how large technolofical (tech) companies are investing their resources into polishing and innovating better telemedicine or telehealthcare for its consumers. (https://www.aljazeera.com/economy/2022/1/6/visualising-apples-3-trillion-market-valuation)
->  Recently 'Apple' crossed the 3 Trillion USD mark
+With this exponential growth in the technology sector and restrictions the pandemic brought with it, there has been an increase in the start-ups linked to this sector of telemedicine. Quoting Apple CEO ‘Tim Cook’-“HEALTH WILL BE THE GREATEST CONTRIBUTION OF APPLE TO WHOLE MANKIND” one can distinctly observe, that how large technolofical (tech) companies are investing their resources into polishing and innovating better telemedicine or telehealthcare for its consumers. (https://www.cnbc.com/2019/01/08/tim-cook-teases-new-apple-services-tied-to-health-care.html)
+>  Recently 'Apple' crossed the 3 Trillion USD mark (https://www.aljazeera.com/economy/2022/1/6/visualising-apples-3-trillion-market-valuation)
 
 Some of the top telehealth providers across the world include:
 1. ’Teladoc Health’ (NYC, United States)- The company is well renowned to provide a range of services from AI-based analytics to medical consultations with revenue forecast in 2020 reaching approximately 180 million USD. (https://www.teladochealth.com/about/)
