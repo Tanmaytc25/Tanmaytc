@@ -1,6 +1,6 @@
  ## 'VIRTUAL VISITS': HEALTHCARE BY ONE CLICK- ILLUSION OR A DISTANT REALITY?
 
-Figure 1 ![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
+Figure 1:  ![Alt text](./images/telemedicine.png?raw=true "Tele Medicine")
 
 ## VIRTUAL VISITS?
 When the world came to an unanticipated halt during the initial days of the coronavirus pandemic (COVID-19) at least you or someone you knew shared a laugh on imagining how it would be to meet your dentist via a video call. It was certainly hilarious and whimsical at first but as the time progressed and more and more things went downhill and global lockdowns were imposed, online healthcare visits be it your therapist or a general practitioner everyone started offering the care virtually. Zoom, Google Meet, or any other virtual alternatives became synonymous with in-person doctor visits.
@@ -10,7 +10,7 @@ Fundamentally a straightforward concept: Using technological methods and process
 ## ROOTS AND ORIGINS OF TELEMEDICINE:
 Traveling and taking a trip to the late 19-century one can read through the first reports of telemedicine being used. In 1879 a year when the world was just getting introduced to the electric bulbs, a telephone call was reported in The Lancet between a physician and a mother to determine whether the baby had croup (a virulent infection of the upper airway which obstructs breathing) was made. The physician listened to the baby’s cough through the phone at the time as reported. This menial but gigantic technological reform picked up pace through the coming decades and many scientists, doctors, and other healthcare providers and experts kept on revolutionizing the field of telehealth and digital medicine. (Aronson S. The Lancet on the telephone, 1876–1975. Med Hist 1977;21(1):69–87.  [PubMed: 320411])
 
- The advent of artificial intelligence in the late 80s and 90s was also described by many as the 'golden times' for Digital-Health. The exponential growth within the community of healthcare providers due to the advancement in AI saw numerous digital communication organizations expanded all across the globe. For example:
+ The advent of artificial intelligence in the late 80s and 90s was also described by many as the 'golden times' for Digital-Health. The exponential growth within the community of healthcare providers due to the advancement in AI saw numerous digital communication organizations to set all across the globe. For example:
 - American Telemedicine Association, (https://www.americantelemed.org)
 - EHTEL (European Health Telematics Association) and (https://www.ehtel.eu)
 - IMIA (International Medical Informatics Association) (https://imia-medinfo.org/wp/)
@@ -38,7 +38,7 @@ In addition, the creation of virtual telemedicine objective structured clinical 
 
 # START-UPS AND INVESTMENTS ARE SURGING:
 
-With this exponential growth in the technology sector and restrictions the pandemic brought with it, there has been an increase in the start-ups linked to this sector of telemedicine. Quoting Apple CEO ‘Tim Cook’-“HEALTH WILL BE THE GREATEST CONTRIBUTION OF APPLE TO WHOLE MANKIND” one can distinctly observe, that how large tech companies are investing their resources into polishing and innovating better telemedicine or telehealthcare for its consumers. (https://www.aljazeera.com/economy/2022/1/6/visualising-apples-3-trillion-market-valuation)
+With this exponential growth in the technology sector and restrictions the pandemic brought with it, there has been an increase in the start-ups linked to this sector of telemedicine. Quoting Apple CEO ‘Tim Cook’-“HEALTH WILL BE THE GREATEST CONTRIBUTION OF APPLE TO WHOLE MANKIND” one can distinctly observe, that how large technolofical (tech) companies are investing their resources into polishing and innovating better telemedicine or telehealthcare for its consumers. (https://www.aljazeera.com/economy/2022/1/6/visualising-apples-3-trillion-market-valuation)
 >  Recently 'Apple' crossed the 3 Trillion USD mark
 
 Some of the top telehealth providers across the world include:
@@ -85,7 +85,7 @@ The global networking of doctors and physicians (having doctors from India, Sing
 3. Demand for books linked to telemedicine and telehealth can also be observed as more interest is growing among the general and the scientific community to learn more in these domains. Books like ‘Research Anthology on Telemedicine Efficacy, Adoption, and Impact on Healthcare Delivery’ and many others are selling as high as 400 to 500 USD. (https://www.igi-global.com/book/research-anthology-telemedicine-efficacy-adoption/267378)
 
 ## WHO EXACTLY BENEFITS?
--  By expanding the scope of local healthcare facilities many local communities can avail certain emergency services which can facilitate further with primary and even secondary prophylaxis. This also increases community awareness and perception towards modern medicine especially in rural and underdeveloped regions as Word-of-mouth is an important factor contributing to rural and local healthcare. Diffusion of anecdotes and stories throughout the community also increases the reputation of the facility which can lead to more funding and thus, more sophisticated telemedicine tools can be employed to provide the best care.
+-  By expanding the scope of local healthcare facilities many local communities can avail certain emergency services which can facilitate with primary and even secondary prophylaxis. This also increases community awareness and perception towards modern medicine especially in rural and underdeveloped regions as 'Word-of-mouth' is an important factor contributing to rural and local healthcare. Diffusion of anecdotes and stories throughout the community also increases the reputation of the facility which can lead to more funding and thus, more sophisticated telemedicine tools can be employed to provide the best care.
 
 -  Telemedicine at its current stage still requires monumental upgrading and augmentation but it can still aid countless self-employed doctors, nurses, and other healthcare providers to find a reliable way to provide the best care to patients all across the globe. By using the tools of telehealth and telemedicine so available they can provide the required care and work for multiple employers which can open multiple sources of income, therefore, providing financial stability to many and also can reduce the high amount of stress relating to job security. Freelancing within the healthcare industry has grown significantly during the Covid-19 pandemic as more and more service providers were overwhelmed with the amount of stress and work with little to no benefits provided by the healthcare facilities for them. 
 
@@ -95,9 +95,9 @@ The global networking of doctors and physicians (having doctors from India, Sing
  
  Distance multidisciplinary collaboration and remote mentoring can alleviate the shortages of doctors, especially experts and specialists. Avoiding unnecessary trips by many healthcare providers can, therefore, reduce unnecessary waste production and essential resources, time, and cost which makes telemedicine a viable alternative by alleviating medical shortages.
 
- Digital health comes with its fair share of concerns and issues but more research and studies within this branch of medicine will yield more innovation more regard will be given for an expansion of this sector by governments, consumers, and providers across the world.
+ Digital health comes with its fair share of concerns and issues but more research and studies within this branch of medicine will yield more innovation, and more regard will be given for an expansion of this sector by governments, consumers, and providers across the world.
 
-> Therefore, ‘Virtual Visits’ will not just be part of the generations in the coming future but will become an innate part of mankind in the coming decades. It will most likely be intertwined in day to day life of many. 
+> Therefore, ‘Virtual Visits’ will not just be part of the generations in the coming future but will become an innate part of healthcare in the coming decades. It will most likely be intertwined in day to day life of many. 
 
 
 
@@ -121,6 +121,7 @@ http://ueu1045.weblog.esaunggul.ac.id/wp-content/uploads/sites/5935/2017/11/1-Pe
 
 8. (Retrieved - 5,February 2022) https://www.theatlantic.com/health/archive/2021/11/the-mass-exodus-of-americas-health-care-workers/620713/
 
+9. (Retrieved - 6,February 2022) https://www.practo.com
 
 
 
